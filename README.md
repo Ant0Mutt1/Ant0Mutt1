@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antonella</h1>
-<h3 align="center">An apprentice in web development</h3>
+<h3 align="center">An apprentice in backend development</h3>
 
-- 🌱 I’m currently learning **Django|Sass|Bootstrap**
+- 🌱 I’m currently learning
+  - **Django**
+  - **Flask**
+  - **REST API**
 
 - 📫 How to reach me **antomuttib@gmail.com**
 
