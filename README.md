@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonella</h1>
-<h3 align="center">An apprentice in backend development</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🌱 I’m currently learning
   - **Django**
